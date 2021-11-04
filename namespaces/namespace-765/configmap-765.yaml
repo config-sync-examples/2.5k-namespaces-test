@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-765
+kind: ConfigMap
+metadata:
+  name: configmap-765
+  namespace: namespace-765

@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-835
+kind: ConfigMap
+metadata:
+  name: configmap-835
+  namespace: namespace-835

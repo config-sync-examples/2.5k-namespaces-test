@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-1941
+kind: ConfigMap
+metadata:
+  name: configmap-1941
+  namespace: namespace-1941

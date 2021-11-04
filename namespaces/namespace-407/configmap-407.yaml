@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-407
+kind: ConfigMap
+metadata:
+  name: configmap-407
+  namespace: namespace-407

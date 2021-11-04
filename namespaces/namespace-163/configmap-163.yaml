@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-163
+kind: ConfigMap
+metadata:
+  name: configmap-163
+  namespace: namespace-163

@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-48
+kind: ConfigMap
+metadata:
+  name: configmap-48
+  namespace: namespace-48

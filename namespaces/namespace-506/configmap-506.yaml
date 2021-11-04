@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-506
+kind: ConfigMap
+metadata:
+  name: configmap-506
+  namespace: namespace-506

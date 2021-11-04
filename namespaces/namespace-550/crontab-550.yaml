@@ -1,0 +1,9 @@
+apiVersion: "stable.example.com/v1"
+kind: CronTab
+metadata:
+  name: crontab-550
+  namespace: namespace-550
+spec:
+  cronSpec: "* * * * */5"
+  image: my-awesome-cron-image
+  extra: field

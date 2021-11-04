@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-2012
+kind: ConfigMap
+metadata:
+  name: configmap-2012
+  namespace: namespace-2012

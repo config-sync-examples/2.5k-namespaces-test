@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-448
+kind: ConfigMap
+metadata:
+  name: configmap-448
+  namespace: namespace-448

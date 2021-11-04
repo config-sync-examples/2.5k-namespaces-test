@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-2002
+kind: ConfigMap
+metadata:
+  name: configmap-2002
+  namespace: namespace-2002

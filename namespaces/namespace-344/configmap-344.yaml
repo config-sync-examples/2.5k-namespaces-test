@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-344
+kind: ConfigMap
+metadata:
+  name: configmap-344
+  namespace: namespace-344

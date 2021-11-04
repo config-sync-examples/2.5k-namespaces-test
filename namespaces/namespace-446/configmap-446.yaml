@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-446
+kind: ConfigMap
+metadata:
+  name: configmap-446
+  namespace: namespace-446

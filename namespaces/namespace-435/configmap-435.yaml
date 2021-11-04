@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-435
+kind: ConfigMap
+metadata:
+  name: configmap-435
+  namespace: namespace-435

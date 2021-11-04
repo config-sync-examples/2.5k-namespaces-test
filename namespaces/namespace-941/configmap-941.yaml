@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-941
+kind: ConfigMap
+metadata:
+  name: configmap-941
+  namespace: namespace-941

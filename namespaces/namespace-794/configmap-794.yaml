@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-794
+kind: ConfigMap
+metadata:
+  name: configmap-794
+  namespace: namespace-794

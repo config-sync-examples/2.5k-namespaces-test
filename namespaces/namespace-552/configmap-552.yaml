@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-552
+kind: ConfigMap
+metadata:
+  name: configmap-552
+  namespace: namespace-552

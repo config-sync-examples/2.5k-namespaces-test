@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-365
+kind: ConfigMap
+metadata:
+  name: configmap-365
+  namespace: namespace-365

@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-463
+kind: ConfigMap
+metadata:
+  name: configmap-463
+  namespace: namespace-463

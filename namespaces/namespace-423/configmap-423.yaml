@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-423
+kind: ConfigMap
+metadata:
+  name: configmap-423
+  namespace: namespace-423

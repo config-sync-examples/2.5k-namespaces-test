@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-411
+kind: ConfigMap
+metadata:
+  name: configmap-411
+  namespace: namespace-411

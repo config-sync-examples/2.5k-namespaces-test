@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-40
+kind: ConfigMap
+metadata:
+  name: configmap-40
+  namespace: namespace-40

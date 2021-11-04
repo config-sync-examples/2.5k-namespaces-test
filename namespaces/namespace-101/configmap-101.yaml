@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-101
+kind: ConfigMap
+metadata:
+  name: configmap-101
+  namespace: namespace-101

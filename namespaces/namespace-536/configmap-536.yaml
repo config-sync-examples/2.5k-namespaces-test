@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-536
+kind: ConfigMap
+metadata:
+  name: configmap-536
+  namespace: namespace-536

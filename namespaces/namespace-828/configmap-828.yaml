@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-828
+kind: ConfigMap
+metadata:
+  name: configmap-828
+  namespace: namespace-828

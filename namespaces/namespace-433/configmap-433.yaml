@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-433
+kind: ConfigMap
+metadata:
+  name: configmap-433
+  namespace: namespace-433

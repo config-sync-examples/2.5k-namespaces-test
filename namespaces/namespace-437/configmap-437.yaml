@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-437
+kind: ConfigMap
+metadata:
+  name: configmap-437
+  namespace: namespace-437

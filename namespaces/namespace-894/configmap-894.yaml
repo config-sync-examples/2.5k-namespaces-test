@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-894
+kind: ConfigMap
+metadata:
+  name: configmap-894
+  namespace: namespace-894

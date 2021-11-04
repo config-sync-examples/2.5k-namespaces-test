@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-397
+kind: ConfigMap
+metadata:
+  name: configmap-397
+  namespace: namespace-397

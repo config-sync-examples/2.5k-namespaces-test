@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-195
+kind: ConfigMap
+metadata:
+  name: configmap-195
+  namespace: namespace-195

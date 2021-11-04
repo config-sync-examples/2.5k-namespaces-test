@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-398
+kind: ConfigMap
+metadata:
+  name: configmap-398
+  namespace: namespace-398

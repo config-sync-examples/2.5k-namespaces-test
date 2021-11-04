@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-443
+kind: ConfigMap
+metadata:
+  name: configmap-443
+  namespace: namespace-443

@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-955
+kind: ConfigMap
+metadata:
+  name: configmap-955
+  namespace: namespace-955

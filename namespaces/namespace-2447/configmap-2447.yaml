@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-2447
+kind: ConfigMap
+metadata:
+  name: configmap-2447
+  namespace: namespace-2447

@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-290
+kind: ConfigMap
+metadata:
+  name: configmap-290
+  namespace: namespace-290

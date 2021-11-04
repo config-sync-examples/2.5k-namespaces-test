@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-1629
+kind: ConfigMap
+metadata:
+  name: configmap-1629
+  namespace: namespace-1629

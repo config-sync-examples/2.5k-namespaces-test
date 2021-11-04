@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-1517
+kind: ConfigMap
+metadata:
+  name: configmap-1517
+  namespace: namespace-1517

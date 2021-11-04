@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-658
+kind: ConfigMap
+metadata:
+  name: configmap-658
+  namespace: namespace-658

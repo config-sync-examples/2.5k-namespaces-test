@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-38
+kind: ConfigMap
+metadata:
+  name: configmap-38
+  namespace: namespace-38

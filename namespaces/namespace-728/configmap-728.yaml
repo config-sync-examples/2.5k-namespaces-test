@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-728
+kind: ConfigMap
+metadata:
+  name: configmap-728
+  namespace: namespace-728

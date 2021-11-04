@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-640
+kind: ConfigMap
+metadata:
+  name: configmap-640
+  namespace: namespace-640

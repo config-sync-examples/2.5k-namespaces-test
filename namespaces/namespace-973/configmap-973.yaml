@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-973
+kind: ConfigMap
+metadata:
+  name: configmap-973
+  namespace: namespace-973

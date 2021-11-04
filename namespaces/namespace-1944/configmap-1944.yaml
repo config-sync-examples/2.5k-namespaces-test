@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-1944
+kind: ConfigMap
+metadata:
+  name: configmap-1944
+  namespace: namespace-1944

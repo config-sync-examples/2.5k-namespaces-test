@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-264
+kind: ConfigMap
+metadata:
+  name: configmap-264
+  namespace: namespace-264

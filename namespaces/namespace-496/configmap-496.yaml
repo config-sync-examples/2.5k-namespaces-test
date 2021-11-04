@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-496
+kind: ConfigMap
+metadata:
+  name: configmap-496
+  namespace: namespace-496

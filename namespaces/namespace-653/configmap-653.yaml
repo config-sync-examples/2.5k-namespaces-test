@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-653
+kind: ConfigMap
+metadata:
+  name: configmap-653
+  namespace: namespace-653

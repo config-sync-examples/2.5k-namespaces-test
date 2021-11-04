@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  namespace: namespace-440
+kind: ConfigMap
+metadata:
+  name: configmap-440
+  namespace: namespace-440
